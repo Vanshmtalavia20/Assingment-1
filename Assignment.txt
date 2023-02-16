@@ -1,0 +1,124 @@
+1) No ,  Html  tags  are  Wriiten  as  <>  and  inside  tags  are  written as elememnts.
+
+2) Tags are used for denoting an html in program whereas attributes are used
+
+to denote characteristics of html element.
+
+3) Void elements are elements which doesn't have closing tag, for ex: <br>.
+
+4) Pending.
+
+5) There are total 3 types of lists and are as follows:
+
+! ol <ordered ist >
+
+! ul <unordered list>
+
+! dl <discription list>
+
+6) class is the attribute in which we can add more than one classnames is
+ 
+known as class attribute.
+
+7) ! id is used to define only single thing.
+ 
+   ! class can be used to define more than one classnames. 
+
+Diffrence btw "id" and "class"
+
+* we can use id attribute to denote unique id in html whereas class
+ 
+can be used to denote multiple in html.
+
+8) There are in total 6 formatting tags in html named:
+
+! <h1>
+
+@ <h2>
+
+# <h3>
+
+$ <h4>
+
+% <h5>
+
+^ <h6>
+
+<h1> denotes the most and <h6> denotes the least heading.
+
+9) cellpadding is used for space on outer edge of table.
+
+cellspacing is used for space inside the individual table.
+
+10)! We could combine two or more rows by typing rowsapn="" and quantity
+
+of rows in "".
+
+! We could club two or more columns by writing colspan="" and quantity of
+
+columns in ""
+
+ 
+11) @ Block -level elements are the elements that always starts from the
+
+new line and occupies whole widht " whether required or not "
+
+# Inline-elements are the elements that could be start from exsisiting 
+
+line and could occupy required width only.
+
+12) ! To create a hyperlink in html first we have to write <a> element to
+
+define a link.
+
+! Than inside <a> element write href=""
+
+! Next inside href="" write the selected image location or path/image
+
+name.jpg and close the a element.
+
+13)  Remaining
+
+14)  Remaining
+
+15)  To insert image image we have to write <img src=""> and inside src 
+
+we have to add path of image / image name.jpg 
+.
+
+16)  Links are normally underlined as blue 
+
+! Active links are links are links which are clickable and when 
+
+mouse cursor is palced over it.
+
+! Normal links are links which are underlined blue but not 
+
+not have a mouse cursor over it.
+
+17) There many tags to sepreate section of tags some are as follows:
+
+! <p> 
+
+! <br>
+
+!<blockquote>
+
+18) @ HTML : stands for Hyper Text Markup Language and it is extended
+
+from SGML.
+
+@ XHTML : stands for Extensible Hyper Text Markup Language and it is e
+
+extended from XML and HTML and could be considred better version of 
+
+HTML.
+
+
+19) !  Logical tags describe the behaviour, nature of content for text
+
+inside the tag.
+
+!  Physical tags are used to describe the appearnce of the text and do not 
+
+provide the information about tags.
